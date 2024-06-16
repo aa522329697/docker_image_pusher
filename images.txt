@@ -1,4 +1,3 @@
-#支持私库
 ailg/alist:latest
 xhofe/alist:latest
 ghcr.nju.edu.cn/home-assistant/home-assistant:stable
@@ -9,5 +8,3 @@ linuxserver/qbittorrent:latest
 whyour/qinglong:latest
 ddsderek/xiaoya-emd:latest
 xiaoyaliu/glue:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
