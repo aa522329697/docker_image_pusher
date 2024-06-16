@@ -2,11 +2,12 @@
 ailg/alist:latest
 xhofe/alist:latest
 ghcr.nju.edu.cn/home-assistant/home-assistant:stable
-amilys/embyserver
-linuxserver/jackett
-jellyfin/jellyfin
-linuxserver/qbittorrent
-whyour/qinglong
-ddsderek/xiaoya-emd
+amilys/embyserver:latest
+linuxserver/jackett:latest
+jellyfin/jellyfin:latest
+linuxserver/qbittorrent:latest
+whyour/qinglong:latest
+ddsderek/xiaoya-emd:latest
+xiaoyaliu/glue:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
