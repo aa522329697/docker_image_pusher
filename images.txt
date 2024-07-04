@@ -8,3 +8,4 @@ linuxserver/qbittorrent:latest
 whyour/qinglong:latest
 ddsderek/xiaoya-emd:latest
 xiaoyaliu/glue:latest
+haroldli/xiaoya-tvbox:latest
