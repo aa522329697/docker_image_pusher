@@ -1,4 +1,5 @@
 ailg/alist:latest
+ailg/alist:hostmode
 xhofe/alist:latest
 ghcr.nju.edu.cn/home-assistant/home-assistant:stable
 amilys/embyserver:latest
