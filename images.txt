@@ -13,3 +13,4 @@ haroldli/xiaoya-tvbox:latest
 msterzhang/onelist:latest
 xiaoyaliu/glue:latest
 nyanmisaka/jellyfin:latest
+nyanmisaka/jellyfin:240220-amd64-legacy
